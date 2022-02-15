@@ -1,0 +1,55 @@
+[
+  {
+    "name": "John",
+    "child": [
+      {
+        "name": "Michael",
+        "child": []
+      },
+      {
+        "name": "Rohit",
+        "child": [
+          {
+            "name": "Panther",
+            "child": []
+          }  
+        ]
+      }  
+    ]
+  },
+  {
+    "name": "Anuj",
+    "child": [
+      {
+        "name": "Doe",
+        "child": [
+          {
+            "name": "Harsh",
+            "child": [
+                  {
+                "name": "Happy",
+                "child": []
+              },
+              {
+            "name": "Dummy",
+            "child": [
+              {
+            "name": "Someone",
+            "child": []
+          } ]
+          } 
+            ]
+          } ]
+      },
+      {
+        "name": "Hrithik",
+        "child": [
+          {
+            "name": "Rishabh",
+            "child": []
+          }  
+        ]
+      }  
+    ]
+  }
+]
